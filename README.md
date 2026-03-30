@@ -8,8 +8,12 @@ Experienced software engineer specializing in building scalable web applications
 
 ## 📊 Profile Badges
 
+![Repos](https://img.shields.io/badge/Repositories-Active-blue)
+![Contributions](https://img.shields.io/badge/Contributions-OpenSource-success)
 ![Web3](https://img.shields.io/badge/Web3-Blockchain-blueviolet)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green)
+![Game Dev](https://img.shields.io/badge/Game%20Development-Unity%2FC%23-red)
 
 ---
 
