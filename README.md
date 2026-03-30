@@ -52,6 +52,7 @@ Experienced software engineer specializing in building scalable web applications
 
 ### Game Development
 - Unity (C#)
+- Unreal Engine
 - Gameplay systems design
 - UI/UX for interactive applications
 - Basic engine-level understanding (C++)
