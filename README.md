@@ -8,8 +8,6 @@ Experienced software engineer specializing in building scalable web applications
 
 ## 📊 Profile Badges
 
-![Profile Views](https://komarev.com/ghpvc/?username=topdev424&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/topdev424?label=Followers&style=social)
 ![Web3](https://img.shields.io/badge/Web3-Blockchain-blueviolet)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange)
 
