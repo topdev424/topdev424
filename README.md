@@ -33,9 +33,12 @@ Experienced software engineer specializing in building scalable web applications
 
 ### Backend Development
 - Node.js, Express
+- Python, Django, FastAPI
+- Java, Springboot
 - RESTful APIs, GraphQL
 - Databases: PostgreSQL, MongoDB
 - Authentication & Authorization (JWT, OAuth)
+- Supabase
 
 ### Blockchain / Web3
 - Solidity smart contract development
