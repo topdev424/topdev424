@@ -93,11 +93,11 @@ Experienced software engineer specializing in building scalable web applications
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topdev424&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topdev424&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topdev424&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topdev424&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=topdev424)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=topdev424&theme=tokyonight)
 
 ---
 
