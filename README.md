@@ -101,6 +101,11 @@ Experienced software engineer specializing in building scalable web applications
 
 ---
 
+## 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=topdev424&theme=tokyo-night)](https://github.com/topdev424)
+
+---
+
 ## 📫 Contact
 
 - Email: topdev424@proton.me
