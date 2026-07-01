@@ -120,13 +120,3 @@ I'm open to collaboration and interesting projects.
 
 📧 Email: topdev424@proton.me
 ---
-
-## If you want next upgrade (I can do it for you):
-I can also turn this into a **high-conversion freelance profile**, including:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-
-Just tell me 👍
