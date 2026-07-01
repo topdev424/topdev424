@@ -1,122 +1,108 @@
-# Top Developer
+# 👋 Hi, I'm an AI Automation & Full-Stack Engineer
 
-## Full Stack Developer | Web3 / Blockchain Engineer | Game Developer
-
-Experienced software engineer specializing in building scalable web applications, decentralized systems, and interactive experiences. Proven track record across full stack development, smart contract integration, and game development using modern technologies.
+I build **AI-powered systems, automation pipelines, and scalable SaaS platforms** using modern cloud and LLM technologies.
 
 ---
 
-## 📊 Profile Badges
+## ⚡ GitHub Stats
 
-![Repos](https://img.shields.io/badge/Repositories-Active-blue)
-![Contributions](https://img.shields.io/badge/Contributions-OpenSource-success)
-![Web3](https://img.shields.io/badge/Web3-Blockchain-blueviolet)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green)
-![Game Dev](https://img.shields.io/badge/Game%20Development-Unity%2FC%23-red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topdev424&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topdev424&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🚀 Professional Summary
-
-- Full Stack Developer with expertise in designing and delivering production-grade applications
-- Strong focus on Web3 technologies, including smart contracts and decentralized architectures
-- Experience developing interactive applications and gameplay systems using Unity
-- Passionate about performance, clean architecture, and maintainable codebases
+![GitHub Streak](https://streak-stats.demolab.com?user=topdev424&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Core Expertise
 
-### Frontend Development
-- React.js, Next.js
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-
-### Backend Development
-- Node.js, Express
-- Python, Django, FastAPI
-- Java, Springboot
-- RESTful APIs, GraphQL
-- Databases: PostgreSQL, MongoDB
-- Authentication & Authorization (JWT, OAuth)
-- Supabase
-
-### Blockchain / Web3
-- Solidity smart contract development
-- Ethereum & EVM-compatible networks
-- Smart contract deployment & testing
-- Web3 integrations using ethers.js / Web3.js
-- Wallet integrations (MetaMask, WalletConnect)
-- Understanding of DeFi, token standards (ERC-20, ERC-721)
-
-### Game Development
-- Unity (C#)
-- Unreal Engine
-- Gameplay systems design
-- UI/UX for interactive applications
-- Basic engine-level understanding (C++)
-
-### DevOps & Tools
-- Git / GitHub version control
-- Docker containerization
-- CI/CD pipelines
-- Cloud deployment: AWS, Vercel, Netlify
+![AI](https://img.shields.io/badge/AI-Automation-blueviolet?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Gemini%20%7C%20Claude-orange?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20Node.js-green?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-n8n%20%7C%20Zapier%20%7C%20Make.com-yellow?style=for-the-badge)
 
 ---
 
-## 💼 Selected Experience Highlights
+## 🚀 About Me
 
-- Designed and developed full stack applications with a focus on scalability and performance
-- Implemented smart contracts and integrated blockchain functionality into web applications
-- Built responsive and user-centric interfaces with modern frontend frameworks
-- Developed interactive gameplay mechanics and optimized game performance in Unity
-- Collaborated across teams to deliver production-ready features and improvements
-
----
-
-## 📌 Projects
-
-### Decentralized Application (dApp)
-- Web3-enabled application with wallet authentication and smart contract interaction
-- Integrated on-chain data with responsive frontend UI
-
-### Full Stack Web Platform
-- End-to-end application featuring authentication, database management, and API architecture
-- Built with modern frameworks and scalable design patterns
-
-### Unity Game Project
-- Interactive 2D/3D game with custom mechanics and optimized performance
-- Implemented gameplay systems, UI components, and user interactions
+- AI automation engineer building real-world agent systems
+- Backend engineer focused on scalable APIs and architectures
+- Creator of LLM-powered SaaS and workflow systems
+- Specialist in RAG pipelines and AI search systems
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topdev424&show_icons=true&theme=tokyonight)
+### 🤖 AI & LLM Systems
+- LLM integration (OpenAI, Gemini, Claude)
+- RAG pipelines & vector databases
+- Multi-agent orchestration systems
+- Prompt engineering & evaluation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topdev424&layout=compact&theme=tokyonight)
+### 🔎 AI Search & Intelligence
+- Hybrid search (vector + keyword)
+- Embedding-based retrieval systems
+- Azure AI Search & metadata ranking
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=topdev424&theme=tokyonight)
+### 🧩 Backend Engineering
+- Python (FastAPI)
+- Node.js APIs
+- Microservices architecture
+- Database design
+
+### 🎨 Frontend
+- React
+- Next.js
+- SaaS dashboards & UI systems
+
+### ☁️ Cloud & DevOps
+- AWS / Azure / GCP
+- Docker & CI/CD
+- Scalable system design
 
 ---
 
-## 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=topdev424&theme=tokyo-night)](https://github.com/topdev424)
+## 🏗️ Featured Projects
+
+### 🤖 AI Workflow Automation Engine
+A multi-agent system that automates business workflows like email handling, scheduling, and CRM updates using LLM orchestration.
 
 ---
 
-## 📫 Contact
-
-- Email: topdev424@proton.me
-
----
-
-## 🤝 Open to Opportunities
-
-I am open to collaborations, freelance opportunities, and full-time roles in Full Stack Development, Web3, and Game Development.
+### 🔍 RAG Knowledge Assistant
+Enterprise search system powered by vector databases and hybrid search for internal company knowledge retrieval.
 
 ---
 
-*Thank you for visiting my profile.*
+### 🧠 Multi-LLM Routing System
+Smart LLM router that selects between OpenAI, Claude, and Gemini based on task type, cost, and latency.
 
+---
+
+### 📊 AI SaaS Dashboard
+Full-stack SaaS platform with AI insights, analytics, and automated reporting.
+
+---
+
+## 📌 Pinned Repository Layout (Suggested)
+
+👉 Pin these repositories on your GitHub profile:
+
+- 🔹 `ai-automation-engine`
+- 🔹 `rag-knowledge-assistant`
+- 🔹 `multi-llm-router`
+- 🔹 `saas-ai-dashboard`
+- 🔹 `backend-api-starter-fastapi`
+- 🔹 `workflow-automation-n8n-pack`
+
+---
+
+## 🧰 Tech Stack
+
+```txt
+Python • FastAPI • Node.js • React • Next.js
+LangChain • LLM APIs • Vector DBs
+AWS • Azure • GCP • Docker • Kubernetes
+n8n • Zapier • Make.com
