@@ -30,6 +30,7 @@ I build **AI-powered systems, automation pipelines, and scalable SaaS platforms*
 - Backend engineer focused on scalable APIs and architectures
 - Creator of LLM-powered SaaS and workflow systems
 - Specialist in RAG pipelines and AI search systems
+- Data/Web Scraping and Data Engineering
 
 ---
 
