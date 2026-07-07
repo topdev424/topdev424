@@ -118,5 +118,6 @@ Backend architecture
 
 I'm open to collaboration and interesting projects.
 
-📧 Email: topdev424@proton.me
+📧 Email: andrewkorot@outlook.com
+          topdev424@proton.me
 ---
