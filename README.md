@@ -50,6 +50,8 @@ I build **AI-powered systems, automation pipelines, and scalable SaaS platforms*
 ### 🧩 Backend Engineering
 - Python (FastAPI)
 - Node.js APIs
+- Laravel APIs
+- Ruby on Rails APIs
 - Microservices architecture
 - Database design
 
