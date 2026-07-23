@@ -1,4 +1,4 @@
-# 👋 Hi, I'm an AI Archtiect, Automation & Full-Stack Engineer
+# 👋 Hi, I'm an AI Archtiect, AI Automation & Full-Stack, DevOps, CI/CD, Cloud Infrastructure Engineer!
 
 I build **AI-powered systems, automation pipelines, and scalable SaaS platforms** using modern cloud and LLM technologies.
 
