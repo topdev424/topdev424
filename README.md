@@ -6,11 +6,11 @@ I build **AI-powered systems, automation pipelines, and scalable SaaS platforms*
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topdev424&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewkorot&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topdev424&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkorot&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=topdev424&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=andrewkorot&theme=tokyonight&hide_border=true)
 
 ---
 
